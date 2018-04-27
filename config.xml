@@ -11,6 +11,7 @@ Aplicacion Dia Mundial de la bicicleta
 </description>
 
 <author href="https://build.phonegap.com" email="reyes.yuya.42@gmail.com">
+Maria Yulissa Reyes Romero
 Datos del autor
 </author>
 
@@ -44,6 +45,6 @@ Datos del autor
 
   <!-- colocar icono app-->
 
-<icon src="res/android/mdpi2.png"/>
+<icon src="res/android/mdpi3.png"/>
 
 </widget>
