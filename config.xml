@@ -4,14 +4,14 @@
  id = "com.phonegap.app3"
  version= "1.0.0">
 
-<name> app3 Datos de la bicicleta </name>
+<name> app3-2018 Datos del Dia Mundial de la Bicicleta </name>
 
 <description>
-Aplicacion Del Día Mundial de la bicicleta
+Aplicacion Dia Mundial de la bicicleta
 </description>
 
 <author href="https://build.phonegap.com" email="reyes.yuya.42@gmail.com">
-Maria Yulissa Reyes Romero
+María Yulissa Reyes Romero
 </author>
 
 <!--Personaliza la aplicacion y plataforma -->
@@ -23,11 +23,13 @@ Maria Yulissa Reyes Romero
 <preference name="android-installLocation"   value="auto"/>
 <preference name="permissions"   value="INTERNET"/>
 
-<!--para accesar a paginas en internet-->
-<allow-intent href="https://*/*"/>
-<acces origin="https://*/*"/>
-<allow-intent href="http://*/*"/>
-<plugin name="cordova-plugin-whitelist" source="npm"/>
+<!--Para accesar a paginas en internet-->
+ <allow-intent href="https://*/*">
+ <acces origin="https://*/*">
+ <allow-intent href="https://*/*">
+ <acces origin="https://*/*">
+ <plugin name="cordova-plugin-whitelist" source="npm"/>
+
 
 <!--Plugins -->
 <!-- Core plugins -->
