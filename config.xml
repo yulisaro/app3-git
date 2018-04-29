@@ -24,7 +24,6 @@ Maria Yulissa Reyes Romero
 <preference name="android-installLocation" value="auto"/>
 <preference name="permissions"  value="INTERNET"/>
 
-<preference name="permissions" value="INTERNET"/>
 
 <!--Para accesar a paginas en internet-->
 <allow-intent href="http://*/*"/>
